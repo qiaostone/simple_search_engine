@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Qc's search engine</title>
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no"> -->
+<!-- 		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black"> -->
+
+		<!-- <link rel="stylesheet" href="http://statics.webkfa.com/mui/mui.min.css"> -->
+		<script src="http://statics.webkfa.com/mui/mui.min.js"></script>
+		<script src="http://statics.webkfa.com/mui/app.js"></script>
+		<style>
+
+		</style>
+	<!-- 	<script>
+			mui.init();
+		</script> -->
+	</head>
+
+	<body>
+
+<link rel="stylesheet" href="../css/oa.css">
+<style>
+    .mui-table h4,.mui-table h5,.mui-table .mui-h5,.mui-table .mui-h6,.mui-table p{
+        margin-top: 0;
+    }
+    .mui-table h4{
+        line-height: 21px;
+        font-weight: 500;
+    }
+
+    .mui-table .oa-icon{
+        position: absolute;
+        right:0;
+        bottom: 0;
+    }
+    .mui-table .oa-icon-star-filled{
+        color:#f14e41;
+    }
+
+
+
+        .bg-search-img{width:100%; height:360px;  margin:0 auto;}
+        .search-logo{text-align:center;}
+         .search-btn{ margin:0 auto; width:640px; height:40px;}
+         .search-text{height:20px; width:521px; padding:9px 7px; border:1px solid #b8b8b8; outline:none; margin-right:0px; float:left;}
+         .search-sub{height:40px; background-color:#38f; border:none; padding:1px; line-height:38px; width:102px;color:white; font-size:16px;margin:0px; float:center;}
+
+         p{
+            margin: 0;
+            padding: 0;
+        }
+        .data-item{
+             border: 0;
+       border-bottom: 1px solid #f5f6f7;
+       /*border-bottom: 1px solid #000; */
+       margin-top: 5px;
+        }
+        .data-group-text .data-group-text-title a{
+        font-size: 18px;
+        font-weight: bold;
+        color: #222;
+                margin-top: 0;
+    }
+    .data-group-img img{
+        display: inline-block;
+        width: 126px;
+        height: 82px;
+        margin-top: 5px;
+    }
+        .data-group-img + .data-group-text{  /* 加号+用于选择兄弟元素 */
+                margin-left: 140px;
+ 
+        }
+        .data-group-text-footer-right a{
+                color: #999;
+                margin-left: 5px;
+        }
+        .data-group-text-footer-left span{
+                color: #999;
+                font-size: 10px;
+        }
+
+</style>
+    <div class="bg-search-img">
+        <div class="search-conent">
+            <div class="search-logo">
+                <img src="../static/image/indlogo.png" height="210px" width="400px" />
+            </div>
+            <div class="search-btn">
+                <form method="POST">
+                    <input type="text" class="search-text" name="keywords_input"/>
+                    <input type="submit" class="search-sub" value="搜索一下" />
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+<div class="container">
+            <div class="row">
+                <!--S 中间列表内容-->
+                <div class="col-md-8">
+                    <ul class="list-group">
+                      {% for result in results %}
+                        <li class="list-group-item data-item">
+                            <div class="data-group">
+                                <div class="data-group-text">
+                                    <div class="data-group-text-title">
+                                        <a href="./web/{{result.page_number}}.html">{{result.title}}</a>
+                                    </div>
+                                    <div class="data-group-text-content">
+                                         <p>{{result.Lcontent}}(TF-IDF:{{result.tf}})</p>
+                                    </div>
+                                    <div class="data-group-text-footer">
+                                        <div class="data-group-text-footer-left pull-left">
+
+                                        </div>
+                                        <div class="data-group-text-footer-right pull-right">
+                                            <a href="#">
+                                                <span class="glyphicon glyphicon glyphicon-thumbs-up" aria-hidden="true"></span>
+                                            </a>
+                                            <a href="#">
+                                                <span class="glyphicon glyphicon glyphicon-thumbs-down" aria-hidden="true"></span>
+                                            </a>
+                                            <a href="#">
+                                                <span class="glyphicon glyphicon glyphicon-share-alt" aria-hidden="true"></span>
+                                            </a>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                      {% endfor %}
+
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+</body>
+</html>

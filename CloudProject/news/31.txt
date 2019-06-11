@@ -1,0 +1,17 @@
+Huawei launches New Database & Storage Product
+By Liu Jiaxin (CNTV)    14:11, May 15, 2019
+
+	Huawei released the world's first artificial intelligence native (AI-Native) database, GaussDB, and the industry's best-performing distributed storage, FusionStorage 8.0, on Wednesday, May 15.
+	This release is reportedly a new initiative of Huawei's AI strategy, marking Huawei's official entry in the database field, from a specialization of hardware to "hardware + software" strategic upgrade.
+
+Huawei's best-performing distributed storage, FusionStorage 8.0. /CGTN Photo 
+	"Human beings are entering the era of intelligence, with data becoming new means of production and intelligence becoming new productivity. The heterogeneous, intelligent and integrated database will become the key pillar of data infrastructure in finance, government, telecommunications, and other industries," said David Wang, Huawei executive director of the Board and President of ICT Strategy and Marketing.
+	Experts expect that in the next two or three decades, humanity will enter the intelligent society, and AI is the core driving force of the smart era.
+	In the future era of intelligence, everyone is generating data, from personal data to corporate data. The outbreak of massive data poses a higher challenge to the development of all walks of life.
+	The intelligent, diverse computing database, just like the human brain, has become a key pillar of IT infrastructure in the financial, government, telecommunications, automotive and other industries.
+
+Huawei's first AI-Native database, GaussDB. /CGTN Photo
+	Huawei's first AI-Native database, GaussDB, is the industry's first enterprise-class database supporting ARM. It will push the database performance to a new level, fully meet the intelligent analysis needs of the diversity data of various industries that will create a unique space of over ten billion U.S. dollars of trade.
+	At the same time, for example, in the field of financial anti-fraud, if widely used, it will stop at least hundreds of millions of dollars each year for the global financial industry.
+	In addition to the "smart brain," the "strong muscles" are also essential. Massive data is produced every day, but currently, less than two percent of the data is stored worldwide. The information is scattered, and the flow is inefficient. Only less than 10 percent of the stored data can be effectively analyzed. Huawei simultaneously released a new generation of intelligent distributed storage to solve the industry's problems, just like the "strong muscles" of a human body.
+	In this way, data can be stored and calculated fast, which will further stimulate the AI market and benefit the general public. 

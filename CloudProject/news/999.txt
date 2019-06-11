@@ -1,0 +1,11 @@
+Moon shrinking causes quakes: study
+ (Xinhua)    16:53, May 15, 2019
+	WASHINGTON, May 13 (Xinhua) -- The U.S. lunar orbiter observations and lunar seismic data showed that the Moon was shrinking like a raisin as its interior cooled, thus producing quakes along the fault lines on it.
+	The study was published on Monday in the journal Nature Geoscience.
+	A team of American researchers designed an algorithm to analyze seismic data recorded by NASA's Apollo missions in 1960s and 1970s which provided epicenter locations of 28 quakes on the Moon from 1969 to 1977. Then they put those data onto imagery of the thrust faults captured by NASA's Lunar Reconnaissance Orbiter (LRO).
+	The quakes' proximity to the thrust faults showed that at least eight of those quakes tend to be resulted from the movement of crustal plates instead of asteroid impacts or rumblings deep within the Moon's interior.
+	The quakes are within 31 km of faults visible in the LRO images, close enough for the team to conclude that the faults likely caused the quakes.
+	"It's quite likely that the faults are still active today. You don't often get to see active tectonics anywhere but Earth, so it's very exciting to think these faults may still be producing moonquakes," said Nicholas Schmerr, an assistant professor of geology at the University of Maryland, in a statement.
+	The researchers also found that six of the eight quakes happened when the Moon was at or near the apogee of its orbit, the farthest point from the Earth.
+	This is where additional tidal stress from the Earth's gravity causes a peak in the total stress on the Moon's crust, according to the study.
+	The Moon wrinkles as its interior cools and shrinks. Its crust is brittle, so the breakage resulted in thrust faults, resembling small stair-shaped cliffs or scarps.

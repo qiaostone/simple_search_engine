@@ -1,0 +1,7 @@
+ZTE opens first European cybersecurity laboratory, allows source code review
+ (Xinhua)    08:07, May 23, 2019
+	Chinese technology firm ZTE opened its first European cybersecurity lab in Rome on Tuesday, which would allow source code review on its products from Italy.
+	The lab aims to provide global customers, regulators and other stakeholders with security assessment and audit services, such as source code review on ZTE products including 4G and 5G, security design audit, procedural document review, black box testing and penetration testing, ZTE said in a statement.
+	ZTE is a major international provider of telecommunications gears, competing with Huawei, Ericsson and Nokia for clients such as mobile operators. Huawei, also a Chinese company, has similar offices in Europe that allow source code reviews on its products. Source codes, the fundamental component of softwares, are the "crown jewel" intellectual property of the information technology industry.
+	The company said the lab is an important step for ZTE to promote transparency and trust. And it will collaborate with world-class security organizations to jointly conduct security assessment, certification, training and consulting.
+	The lab would also be an industry cooperation and research platform, allowing the industry to conduct in-depth researches and explorations in security field, ZTE said in the statement.

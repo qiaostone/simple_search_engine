@@ -1,0 +1,7 @@
+China's Golaxy wins AI Go game at Digital China Summit
+ (Xinhua)    09:55, May 08, 2019
+	FUZHOU, May 7 (Xinhua) -- China's Golaxy beat Belgium's Leela Zero in an AI Go game during the 2nd Digital China Summit here on Tuesday in southeast China's Fujian province.
+	Golaxy, a top AI Go program developed by Beijing Thinker Technology Ltd., is capable of playing Go games with optimal moves just like human beings, while Leela Zero is a Belgium program, widely accepted in the sport of Go.
+	During the AI game, the two programs competed against each other by connecting to their systems via computers, with AI expert Jin Xing and professional Go-player Wang Lu making live interpretation of algorithm analysis and winning potentials.
+	The game went smoothly with Golaxy playing black pieces. Later on, Leela Zero made a controversial move, which was exploited by Golaxy who then enlarged its advantage to seal the victory.
+	"AI is data-driven in essence, and Go becomes a good test field for algorithmic research as its data are open, accessible, and can be generated indefinitely," Jin said. "New AI algorithms will be first studied and verified in Go, then applied to other fields with commercial and application values. It's a brilliant innovative model."

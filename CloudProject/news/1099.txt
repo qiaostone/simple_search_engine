@@ -1,0 +1,28 @@
+Clearer view on self-driving cars offered in road tests report
+By Zhang Dandan (China Daily)    11:23, April 08, 2019
+
+An autonomous concept vehicle on display during the Beijing auto show last year. China is expected to be one of the most important autonomous vehicle markets in the world, according to consulting firm KPMG. [Photo by Long Wei/China Daily]
+Almost 60 vehicles drove for more than 150,000 kilometers around the national capital
+	The Beijing Commission of Transport has released the first autonomous driving road test report in China. Insiders believe it advances the development and application of self-driving technology in the country.
+	Released at the end of March, the report said Beijing had 56 self-driving vehicles from eight companies traveling more than 153,600 kilometers in 2018.
+	Among the companies - including the Shanghai-based electric car startup Nio and Beijing-based Pony. ai, as well as German auto giants Daimler and Audi - China's search giant Baidu made an outstanding contribution.
+	While other participants tested their one or two autonomous vehicles, Baidu tested a fleet of 45 cars equipped with its Apollo autonomous driving system. They accounted for more than 80 percent of self-driving cars tested in 2018 in Beijing.
+	In addition, Baidu's test fleet traveled some 140,000 km on all kinds of road conditions with no accidents, presenting the leading position of Baidu's Apollo system.
+	The results of Baidu match the latest road test report by the Californian Department of Motor Vehicles in the United States in February. They show that the Apollo system helped cars travel up to 29,117 km in 2018, a growth of 818 percent from the previous year.
+
+Baidu's autonomous driving fleet is tested on the roads in Beijing. [Photo by Zhu Xingxin/China Daily]
+	However, since China has more complicated driving and road conditions than the US, the DMV report has its limitations in terms of testing China's autonomous cars.
+	The main items tested by the DMV include the total miles traveled and the miles per intervention, which means the frequency of manual takeovers.
+	According to auto portal Gasgoo, the miles per intervention is an important technical index measuring the company's technology research and development. It is not a gauge for comparison among the enterprises, since the complexity of the cars and road conditions varies.
+	The index of the miles per intervention of each enterprise is not compared in Beijing's road test report, avoiding data fraud and guiding the enterprises to pay attention to safety, accumulate road test experience and industrialize scientific and technological achievements.
+	Focusing on safety and overall performance, Beijing's road test report evaluates the self-driving capability of a mass of cars with at least 100,000 km traveled with no accidents and under diverse conditions.
+	The travel of one or two self-driving cars is easy, while dozens or hundreds of cars running at the same time is another story. It requires high vehicle stability, reflecting the capabilities of the companies, including their vehicle integration technology and the software-hardware integration technology, according to Gasgoo.
+
+An Alibaba autonomous car is tested in Hangzhou, Zhejiang province. [Photo by Long Wei/for China Daily]
+	As a basic threshold of autonomous driving, traveling 100,000 km without an accident demonstrates self-driving capability, the level of quality control system and safety test management, Gasgoo reported.
+	Autonomous driving needs to adapt to different road conditions. Test results under different road conditions are supposed to reflect the adaptability and technical mobility of the autonomous driving technology.
+	Expected to be one of the most important autonomous vehicle markets by accounting group KPMG early this year, China has conducted road tests in a raft of its municipalities and provinces, including Beijing, Shanghai, Chongqing and Guangdong.
+	As China's center of scientific and technological innovation, Beijing has been a pioneer in developing self-driving technology.
+	The country's first self-driving road test report notes that the capital is scheduled to scale up tests. It cites a plan that aims to have test areas of 500 square kilometers and 2,000 km of open roads for testing intelligent-connected vehicles by 2022.
+	Data show that since February 2018, Beijing has opened 44 roads, totaling 123 km for road tests.
+	As of the end of 2018, the capital had 54 registered autonomous-driving vehicles, accounting for more than 50 percent of the total nationwide.

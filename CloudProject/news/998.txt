@@ -1,0 +1,7 @@
+5G remote-controlled car tested in Chongqing
+ (Xinhua)    20:34, May 15, 2019
+	CHONGQING, May 15 (Xinhua) -- A remote-controlled car powered by the 5G network completed a test run on Wednesday in Chongqing, a vehicle-manufacturing powerhouse in southwest China.
+	During the test run, a remote operator was able to control the car while watching the live feed of road conditions supported by the 5G network.
+	The car was co-developed by the Chongqing subsidiary of China Telecom, China Automotive Engineering Research Institute Co. Ltd., and Datang Mobile Communications Equipment Co. Ltd.
+	Tu Lefei, an expert with the Chongqing subsidiary of China Telecom, said the researchers were working to incorporate more functions such as hazard warnings into the car.
+	Test data showed that the 5G network is able to provide a peak single-user download speed of 1.6 Gbps, nearly 16 times faster than that of 4G services.

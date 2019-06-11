@@ -1,0 +1,8 @@
+Chinaâs privately developed rocket completes 1st low-altitude recovery test flight
+ (People's Daily Online)    10:18, April 08, 2019
+	A recyclable rocket, RLV-T5, developed by a private Chinese company, completed its first low-altitude test flight on March 27, Science and Technology Daily reported.
+	The vehicle flew to an altitude of 20 meters in strong winds, hovered for 10 seconds and landed at a designated location at the testing ground in Longkou city, east Chinaâs Shandong province, according to a staff member with developer Linkspace.
+	The reusable rocket is compared to the SpaceX Grasshopper rocket used in the development of the Falcon 9 launch vehicle, but it has some innovative algorithm in core control.
+	The flight test verified key technologies including variable thrust, control, anti-disturbance and parameter adjustment in the development of the rocket, said Chu Longfei, chief technology officer of Linkspace.
+	In January 2018, the company completed low-altitude recovery tests of the RLV-T3 rocket, a predecessor of the RLV-T5 rocket, which accumulated experience for the latest test flight, Chu explained.
+	Future flight tests will focus on trialing technologies used to support the rocketâs functionality at altitudes above one kilometer, Chu said.

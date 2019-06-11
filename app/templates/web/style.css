@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+*{
+padding:0;margin:30}
+body{
+font:14px/24px "宋体";
+color:#000}
+h2{
+font:normal 22px/35px "黑体";
+color:#000;
+text-align:center;}
+.one{
+font-size:12px;
+text-align:center}
+p{
+text-indent:2em;}
+.blue{
+color:#00C}
+.gray{
+color:#666}

@@ -1,0 +1,6 @@
+5G and AI-based system contributes to smarter bus traffic in Chengdu
+ (CRI Online)    14:36, April 05, 2019
+	A new system backed by 5G networks and AI technology is contributing to smarter bus transportation in Sichuan's provincial capital Chengdu, reports Sichuan News Online.
+	A new system tracks passenger flows in real-time, and uploads the data to a central platform using a 5G network. The bus operator can then use this data to more accurately and efficiently dispatch buses. It can also detect improper behavior by drivers and passengers using cameras mounted in the buses, and raise an alert with the bus operator.
+	The system is said to be the first of its kind in China. It is the result of collaboration between Chengdu Public Transport Group, China Telecom, and Huawei as part of the development of the Jinsha public transportation hub, believed to be the largest of its kind in China. China National Radio reports that the hub can accommodate at least 5,600 passengers at any one time, and allows for a seamless connection between subway, bus, and Bus Rapid Transit services.
+	Free 5G coverage will be available throughout the transport hub, and passengers will be able to use

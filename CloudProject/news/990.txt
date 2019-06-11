@@ -1,0 +1,9 @@
+China completes first 5G inspection of power lines
+ (Xinhua)    17:21, May 16, 2019
+	TIANJIN, May 16 (Xinhua) -- North China's Tianjin Municipality has completed the country's first inspection of electric power lines using drones and the 5G wireless network, whose future application could exempt workers from the dangerous job.
+	The inspection on Wednesday afternoon involved a drone equipped with a high-definition camera and a 5G terminal. It flew 6 kilometers in the Binhai New Area and transmitted instantaneous videos of the power lines to engineers who checked for signs of glitches.
+	The State Grid Tianjin Electric Power Company, which carried out the mission, said a land-based robot was also mobilized to scrutinize an electrical substation near the power lines.
+	"Traditional inspections require maintenance personnel to scale towers and carefully inspect the lines in person, which is very laborious work," said Zhang Zhipeng, a senior engineer with the State Grid's Tianjin branch.
+	Drones had been previously deployed to replace humans in the inspections, but the 4G environment did not support the transmission of high-definition videos required for the detection of minute defects, Zhang told Xinhua.
+	"The ultra-low latency of the 5G network also ensures high precision of the inspection and prevents the robot from entering dangerous areas by mistake," Zhang said.
+	The 5G network, which promises much higher speed and lower latency than 4G, is believed to set the stage for a new generations of technologies including the Internet of Things.
