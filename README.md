@@ -40,3 +40,6 @@ TF-IDF：Mapreduce，这里在Azure云上的HDInsight实现
 (5) idf.json:各词语idf值
 
 (6) record.json:倒排索引列表
+
+# 演示：
+  进入/app文件夹，安装flask框架后运行application.py
