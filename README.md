@@ -26,7 +26,7 @@ TF-IDF：Mapreduce，这里在Azure云上的HDInsight实现
 
 (5)standardize.py：文本标准化
 
-(6)to_html.py：将新闻转换为文本
+(6)to_html.py：将新闻转换为网页
 
 # app
 (1) application.py: flask主函数
